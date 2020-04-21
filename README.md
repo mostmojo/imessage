@@ -1,3 +1,3 @@
 # 👋
 
-Personal mini website
+Personal mini website.
